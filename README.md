@@ -1,6 +1,6 @@
 # Airbnb-Project-Hyperparameter-Tuning-with-Python
 1. Defining the Question
-2. 
+
 a) Specifying the Data Analysis Question
 As a Data Scientist working for Airbnb, you have been tasked to create a model that predicts Airbnb rental prices for the city of Amsterdam. Popularity for Airbnbs in Amsterdam has grown over the past years and you are required to build a solution the would make optimal predictions.
 
